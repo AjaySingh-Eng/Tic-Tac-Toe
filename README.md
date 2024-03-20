@@ -1,0 +1,2 @@
+In this project, Tic-Tac-Toe Game using HTML5, CSS3 and JavaScript. In the game, Player-X and Player-O starts playing the game and both players make their moves in consecutive turns. The player who makes a straight 3-box chain wins the game. This game is built on the front-end using simple logic in JavaScript and validation checks.
+Key section of the Game- New game button, Reset button, Winner Message, Draw Message.
